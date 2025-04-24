@@ -31,7 +31,7 @@ Existing infrared and visible light datasets are difficult to use effectively in
 
 The dataset is captured by robot platform and a time synchronisation multisensor system including an infrared camera, a visible light camera and a LiDAR is constructed to capture the multimodal information of the current scene. The parameters of the two cameras are as follows: the focal lengths of the infrared camera and the visible light camera are fIR=3.2mm and fIR=8mm, respectively; the resolution of the visible light image is 1920×1080 with a large field of view (FOV); the resolution of the infrared camera is 1280×960, and the infrared wavelength band used is 8-14μm. The farthest detection range of LIDAR is 450m, and the non-repeating scanning FOV is 70.4°*77.2°, the maximum echo beam is 3, the data rate of point cloud is 240,000 points per second, the detection accuracy is 2cm, the relevant parameters of inertial guidance is the use of BMI088 model, the maximum reading speed is 2000Hz.
 
-![image-20250422214243090](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250422214243090.png)
+[![image-20250422214243090](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250422214243090.png)](https://github.com/weiye51/Multi-Sensor-Fusion/blob/main/1.png)
 
 
 
@@ -46,9 +46,9 @@ This chapter presents a real-world multimodal dataset spanning 3 hours, which fu
 | bus        | 20      |
 | Excavators | 15      |
 | Bicycles   | 18      |
-
+[
 ![image-20250422214506571](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250422214506571.png)
-
+](https://github.com/weiye51/Multi-Sensor-Fusion/blob/main/2.png)
 
 
 
