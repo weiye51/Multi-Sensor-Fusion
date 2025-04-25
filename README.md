@@ -12,7 +12,7 @@ The code of this algorithm will be made public after publication in the journal
 
 You can get the crane dataset on Baidu Netdisk through the following link Link:
 
-
+https://pan.baidu.com/s/1rYdtU3lA6elk1uiGvyrxEw](https://pan.baidu.com/s/1rYdtU3lA6elk1uiGvyrxEw 提取码: jxby 
 
 Existing infrared and visible light datasets are difficult to use effectively in the evaluation and learning of target detection tasks. Most of these datasets directly or indirectly provide a set of infrared and visible image pairs, but they are difficult to meet the training requirements of deep neural networks, both in terms of data quality, resolution and quantity. In addition, some of the datasets lack the necessary pre-processing steps. To solve these problems, this paper proposes the Robust visual-infrared-Lidar and Imu(VILI) dataset, which not only provides infrared and visible image pairs with the highest resolution, but also pre-processes these image pairs for matching and correction, and also contains the point cloud information of the scene, as well as time synchronisation of all data types, which significantly improves the diversity and usefulness of the data.
 
